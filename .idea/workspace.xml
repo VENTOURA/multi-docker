@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56496b51-235c-4bfc-80cd-18a01eb40252" name="Default Changelist" comment="" />
+    <list default="true" id="56496b51-235c-4bfc-80cd-18a01eb40252" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +16,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZY3yN9P8FX2ndOdSltLlVcw6tE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
@@ -55,11 +62,60 @@
       <workItem from="1585008924199" duration="1374000" />
       <workItem from="1585011422445" duration="1512000" />
       <workItem from="1585072591434" duration="896000" />
-      <workItem from="1585074455680" duration="486000" />
+      <workItem from="1585074455680" duration="913000" />
+      <workItem from="1585076283184" duration="1096000" />
     </task>
+    <task id="LOCAL-00001" summary="travis.yml add">
+      <created>1585077158366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585077158366</updated>
+    </task>
+    <task id="LOCAL-00002" summary="travis.yml fix">
+      <created>1585077443332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585077443332</updated>
+    </task>
+    <task id="LOCAL-00003" summary="travis.yml fix">
+      <created>1585077460623</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585077460623</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add docker id">
+      <created>1585077658373</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585077658373</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="travis.yml add" />
+    <MESSAGE value="travis.yml fix" />
+    <MESSAGE value="add docker id" />
+    <option name="LAST_COMMIT_MESSAGE" value="add docker id" />
   </component>
 </project>
